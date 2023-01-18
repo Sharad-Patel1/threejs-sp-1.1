@@ -1,11 +1,18 @@
-# Three.js Starter
-Courtesy of Bruno Simon of https://threejs-journey.xyz/
+# Three.js Project
+
+Basic project to learn Three.js,
+
+- A sphere with texture and lighting
+- Spins and follows cursor
+- Increases and decreases size based on cursor
+- Moves on scroll.
 
 ## Setup
+
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
 
-``` bash
+```bash
 # Install dependencies (only the first time)
 npm install
 
